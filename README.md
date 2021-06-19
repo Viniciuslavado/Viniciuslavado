@@ -3,8 +3,7 @@
 ![coding](https://media.giphy.com/media/TRklv98Fvo0Tu/giphy.gif)
 
 
-Meu nome é **Vinícius Lavado**, sou  Brasileiro.
-
+Meu nome é **Vinícius Lavado**, Prazer em ter você aqui! 😄
 
 
 Tenho 23 anos.
