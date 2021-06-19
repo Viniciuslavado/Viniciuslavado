@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hey! ✋🏽
 
-<!--
-**Viniciuslavado/Viniciuslavado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Vinícius Lavado**, sou do Brasil 🇧🇷.
 
-Here are some ideas to get you started:
+Tenho 23 anos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Curioso, sempre procurando aprender coisas novas, sou mais um amante desse mundo incrível que é a tecnologia 💻🤓
+
+Atualmente eu faço um Bootcamp de **Desenvolvedor Java Jr (Full-stack)** através da **Generation Brasil**. 🔓
+
+
+📍 **São Paulo - SP**
+
+
+##### Investir no conhecimento sempre rende os melhores juros  ✔️🧠
