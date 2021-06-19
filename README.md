@@ -1,6 +1,6 @@
 ## Hey! ✋🏽
 
-Meu nome é **Vinícius Lavado**, sou do Brasil 
+Meu nome é **Vinícius Lavado**, sou  Brasileiro.
 
 
 
