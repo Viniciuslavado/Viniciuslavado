@@ -1,6 +1,6 @@
 ## Hey! ✋🏽
 
-![programacao](<iframe src="https://giphy.com/embed/TRklv98Fvo0Tu" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/storybots-code-TRklv98Fvo0Tu">via GIPHY</a></p>)
+![coding](https://media.giphy.com/media/TRklv98Fvo0Tu/giphy.gif)
 
 
 Meu nome é **Vinícius Lavado**, sou  Brasileiro.
