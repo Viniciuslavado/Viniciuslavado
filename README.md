@@ -10,10 +10,6 @@ Tenho 23 anos.
 
 
 Curioso, sempre procurando aprender coisas novas, sou mais um amante desse mundo incrível que é a tecnologia 💻🤓
-  
-##### Investir no conhecimento sempre rende os melhores juros  ✔️🧠
-
-
 Atualmente eu faço um Bootcamp de **Desenvolvedor Java Jr (Full-stack)** através da **Generation Brasil**. 🔓
 
 
