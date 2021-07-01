@@ -14,10 +14,6 @@ Curioso, sempre procurando aprender coisas novas, sou mais um amante desse mundo
 ##### Investir no conhecimento sempre rende os melhores juros  ✔️🧠
 
 
-
-![coding](https://media.giphy.com/media/TRklv98Fvo0Tu/giphy.gif)
-
-
 Atualmente eu faço um Bootcamp de **Desenvolvedor Java Jr (Full-stack)** através da **Generation Brasil**. 🔓
 
 
