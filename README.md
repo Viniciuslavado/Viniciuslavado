@@ -1,6 +1,6 @@
 <p align="center">  
 	
-									 Olá, como vai?
+								 Olá, como vai?
 
 
 Meu nome é Vinícius Lavado, Prazer em ter você aqui! 😄
