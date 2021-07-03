@@ -1,5 +1,5 @@
-## Hey! ✋🏽
-
+<p align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
 
 Meu nome é **Vinícius Lavado**, Prazer em ter você aqui! 😄
 
