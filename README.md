@@ -23,9 +23,11 @@ Atualmente eu faço um Bootcamp de **Desenvolvedor Java Jr (Full-stack)** atrav�
 
 
 <p align="center">
+  
 #### Meios de Comunicação 📲
 
 <p align="center">  
+  
 [![Twitter Badge](https://img.shields.io/badge/-@viniciuslavadox-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/viniciuslavadox)](https://twitter.com/viniciuslavadox) 
 [![Linkedin Badge](https://img.shields.io/badge/-Vinícius%20Lavado-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciuslavado8/)](https://www.linkedin.com/in/viniciuslavado8/) 
 [![Gmail Badge](https://img.shields.io/badge/-viniciuslavsilva@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciuslavsilva)](mailto:viniciuslavsilva@gmail.com)
