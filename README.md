@@ -1,6 +1,6 @@
 <p align="center">  
 	
-	 Olá, como vai?
+									 Olá, como vai?
 
 
 Meu nome é Vinícius Lavado, Prazer em ter você aqui! 😄
@@ -28,9 +28,7 @@ Desde criança, sempre fui muito curioso, acabava mexendo nos eletroeletronicos 
   
   
 
-<p align="center">
-  
-#### Meios de Comunicação 📲
+
 
 <p align="center">  
   
