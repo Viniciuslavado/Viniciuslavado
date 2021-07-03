@@ -15,7 +15,12 @@ Desde criança, sempre fui muito curioso, acabava mexendo nos eletroeletronicos 
  Atualmente eu faço um Bootcamp de Desenvolvedor Java Jr (Full-stack) através da Generation Brasil. 🔓
 
 
+! [Estatísticas do GitHub de Vinícius] (https://github-readme-stats.vercel.app/api ? Username = Viniciuslavado & theme = graywhite & ​​show_icons = true )
 
+  
+  
+  
+  
 
 <p align="center">
   
