@@ -1,14 +1,13 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+<p align="center">  
+	## Hey
 
-<p align="center">
+
 Meu nome é Vinícius Lavado, Prazer em ter você aqui! 😄
 
-<p align="center">
+
 Tenho 23 anos, Sou da Zona leste de São Paulo - SP
 
 
-<p align="center">
 Sou formado em gastronomia, e agora estou entrando na área da tecnologia.
 Desde criança, sempre fui muito curioso, acabava mexendo nos eletroeletronicos da casa, abrindo para ver o que tinha dentro para tentar arrumar. vendo videos para aprender como concertar e sempre procurando aprender coisas novas. Começei a ingressar agora na área de tecnologia, mas já sou mais um amante desse mundo incrível e de tudo que ele oferece. 💻🤓
 
