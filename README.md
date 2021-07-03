@@ -16,9 +16,9 @@ Desde criança, sempre fui muito curioso, acabava mexendo nos eletroeletronicos 
 
 
 <p align="center">   
-<details>
-	<summary> <b> Algumas informações sobre mim! </b> <i>(Clique aqui!)</i> </summary>
-<br>
+				<details>
+					<summary> <b> Algumas informações sobre mim! </b> <i>(Clique aqui!)</i> </summary>
+				<br>
   
  
 	
