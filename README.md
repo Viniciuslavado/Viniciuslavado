@@ -20,7 +20,8 @@ Desde criança, sempre fui muito curioso, acabava mexendo nos eletroeletronicos 
 	<summary> <b> Algumas informações sobre mim! </b> <i>(Clique aqui!)</i> </summary>
 <br>
   
-<p align="center">  
+<p align="center"> 
+	
 ![Vinicius github stats](https://github-readme-stats.vercel.app/api?username=viniciuslavado&theme=midnight-purple&show_icons=true)
 
   
