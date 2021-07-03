@@ -1,6 +1,6 @@
 <p align="center">  
 	
-								 Olá, como vai?
+								 Olá 🤚🏼, como vai?
 
 
 Meu nome é Vinícius Lavado, Prazer em ter você aqui! 😄
@@ -15,12 +15,12 @@ Desde criança, sempre fui muito curioso, acabava mexendo nos eletroeletronicos 
  Atualmente eu faço um Bootcamp de Desenvolvedor Java Jr (Full-stack) através da Generation Brasil. 🔓
 
 
-  
+<p align="center">   
 <details>
 	<summary> <b> Algumas informações sobre mim! </b> <i>(Clique aqui!)</i> </summary>
 <br>
   
-
+<p align="center">  
 ![Vinicius github stats](https://github-readme-stats.vercel.app/api?username=viniciuslavado&theme=midnight-purple&show_icons=true)
 
   
