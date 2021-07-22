@@ -44,10 +44,8 @@ Desde criança, sempre fui muito curioso, acabava mexendo nos eletroeletrônicos
   
 <p align="center">  
   
-![face](https://img.shields.io/badge/Facebook-089c5c?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/viniciuslavadox)
-	
-	
-[![Twitter Badge](https://img.shields.io/badge/-@viniciuslavadox-7231cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/viniciuslavadox)](https://twitter.com/viniciuslavadox) 
-[![Linkedin Badge](https://img.shields.io/badge/-Vinícius%20Lavado-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciuslavado8/)](https://www.linkedin.com/in/viniciuslavado8/) 
-[![Gmail Badge](https://img.shields.io/badge/-viniciuslavsilva@gmail.com-089c5cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciuslavsilva)](mailto:viniciuslavsilva@gmail.com)
+[![face](https://img.shields.io/badge/-Vinicius%20L.%20Silva-089c5c?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/viniciuslavadox/)](https://www.facebook.com/viniciuslavadox/)
+[![linkedin](https://img.shields.io/badge/-Vinícius%20Lavado-089c5c?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciuslavado8/)](https://www.linkedin.com/in/viniciuslavado8/)
+[![gmail](https://img.shields.io/badge/viniciuslavsilva@gmail.com-089c5c?style=for-the-badge&logo=gmail&logoColor=white&link=malito:viniciuslavsilva)](mailto:viniciuslavsilva@gmail.com)	
+[![insta](https://img.shields.io/badge/viniciuslavadox-089c5c?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/viniciuslavadox/)](https://www.instagram.com/viniciuslavadox/)
 </center>
