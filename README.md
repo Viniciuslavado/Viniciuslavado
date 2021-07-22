@@ -32,7 +32,7 @@ Desde criança, sempre fui muito curioso, acabava mexendo nos eletroeletrônicos
 <br>
 
 <details>
-<summary> <b> Abaixo tem algumas informações sobre meus projetos e minha vida ➙ </b> <i>(Clique aqui!)</i> </summary>
+<summary> <b> Abaixo tem algumas informações sobre meus projetos e contatos ➙ </b> <i>(Clique aqui!)</i> </summary>
 <br>
 </p>
 
