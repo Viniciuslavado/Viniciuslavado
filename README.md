@@ -38,7 +38,7 @@ Desde criança, sempre fui muito curioso, acabava mexendo nos eletroeletrônicos
 
 	
 ![Vinicius github stats](https://github-readme-stats.vercel.app/api?username=viniciuslavado&theme=gotham&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslavado&layout=demo&theme=gotham&show)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslavado&layout=compact&theme=gotham&show)
 </br>
 
   
